@@ -12,6 +12,6 @@ function createWhiteList(commonList, blackList) {
   return whiteList;
 }
 
-createWhiteList(['1', '2', '3', '4', '5', '6', '7', '8', '9'], ['3', '5', '8']);
+createWhiteList(['vish@.ru', 'eyrbg@.com', 'dfjhgndl@.ru', '564rgew4@.com', 'rthbfd@.ru', 'sewt6787@.ru'], ['eyrbg@.com', '564rgew4@.com']);
 
 export default { createWhiteList };
